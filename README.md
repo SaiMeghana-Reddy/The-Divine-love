@@ -28,7 +28,7 @@ apexplanet-task1/
 │
 ├── index.html # Main HTML file with content
 ├── style.css # External CSS for styling
-├── x.js # External JavaScript for button logic
+├── script.js # External JavaScript for button logic
 ├── img.jpg # Image used in the blog (ensure this is included)
 └── README.md # Project overview and documentation
 
