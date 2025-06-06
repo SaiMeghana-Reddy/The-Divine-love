@@ -1,0 +1,21 @@
+h1{
+    color:rgb(250, 62, 78);
+}
+body{
+    background-color: rgb(84, 13, 110);
+    text-align: center;
+    font-size: x-large;
+}
+pre{
+    color:rgb(255, 224, 157)
+}
+p{
+    color:rgb(228, 223, 218)
+}
+a{
+    color:#D4CDF4
+}
+button{
+    color:#6D4C3D;
+    background-color: #B49A67;
+}
